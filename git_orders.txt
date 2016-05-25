@@ -6,3 +6,4 @@ git add .				添加所有文件/文件夹
 git commit -m "提交说明"		提交到仓库
 git status				仓库当前状态
 git diff				查看尚未提交的两个版本间的差异
+git log					命令显示从最近到最远的提交日志,如果嫌输出信息太多，看得眼花缭乱的，可以试试加上--pretty=oneline参数
