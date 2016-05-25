@@ -14,3 +14,4 @@ git reset --hard HEAD^			»ØÍËµ½ÉÏÒ»¸ö°æ±¾£¬ÏÖÔÚµÄ°æ±¾ÊÇHEAD,£¬ÉÏÒ»¸ö°æ±¾ÊÇHEAD^µ
 git rm ÎÄ¼ş/ÎÄ¼ş¼ĞÃû			É¾³ıÎÄ¼ş
 ssh-keygen -t rsa -C "ÓÊÏä"		´´½¨SSH Key
 git remote add origin git@github.com:ZhengwuFan/MyRepository.git	Ìí¼ÓÔ¶³Ì¿â
+git push -u origin master		ÍÆËÍµ½Ô¶³Ì¿â£¬µÚÒ»´ÎÍÆËÍmaster·ÖÖ§Ê±£¬¼ÓÉÏÁË-u²ÎÊı£¬Git²»µ«»á°Ñ±¾µØµÄmaster·ÖÖ§ÄÚÈİÍÆËÍµÄÔ¶³ÌĞÂµÄmaster·ÖÖ§£¬»¹»á°Ñ±¾µØµÄmaster·ÖÖ§ºÍÔ¶³ÌµÄmaster·ÖÖ§¹ØÁªÆğÀ´£¬ÔÚÒÔºóµÄÍÆËÍ»òÕßÀ­È¡Ê±¾Í¿ÉÒÔ¼ò»¯ÃüÁî¡£git push origin master
