@@ -1,0 +1,7 @@
+mkdir					创建文件夹
+pwd					显示当前目录
+git init				把这个目录变成可以git管理的仓库
+git add					把文件/文件夹添加到仓库
+git add .				添加所有文件/文件夹
+git commit -m "提交说明"		提交到仓库
+git status				仓库当前状态
